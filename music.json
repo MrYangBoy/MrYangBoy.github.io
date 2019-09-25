@@ -1,0 +1,963 @@
+{
+    "RECORDS": [
+        {
+            "id": "2",
+            "title": "一口气全念对",
+            "artist": "周杰伦",
+            "src": "./JayChou/一口气全念对.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "3",
+            "title": "一点点",
+            "artist": "周杰伦",
+            "src": "./JayChou/一点点.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "4",
+            "title": "一路向北",
+            "artist": "周杰伦",
+            "src": "./JayChou/一路向北.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "5",
+            "title": "七里香",
+            "artist": "周杰伦",
+            "src": "./JayChou/七里香.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "6",
+            "title": "三年二班",
+            "artist": "周杰伦",
+            "src": "./JayChou/三年二班.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "7",
+            "title": "上海一九四三",
+            "artist": "周杰伦",
+            "src": "./JayChou/上海一九四三.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "8",
+            "title": "不爱我就拉倒",
+            "artist": "周杰伦",
+            "src": "./JayChou/不爱我就拉倒.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "9",
+            "title": "不能说的秘密",
+            "artist": "周杰伦",
+            "src": "./JayChou/不能说的秘密.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "10",
+            "title": "世界未末日",
+            "artist": "周杰伦",
+            "src": "./JayChou/世界未末日.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "11",
+            "title": "世界末日",
+            "artist": "周杰伦",
+            "src": "./JayChou/世界末日.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "12",
+            "title": "东风破",
+            "artist": "周杰伦",
+            "src": "./JayChou/东风破.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "13",
+            "title": "乌克丽丽",
+            "artist": "周杰伦",
+            "src": "./JayChou/乌克丽丽.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "14",
+            "title": "乔克叔叔",
+            "artist": "周杰伦",
+            "src": "./JayChou/乔克叔叔.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "15",
+            "title": "乱舞春秋",
+            "artist": "周杰伦",
+            "src": "./JayChou/乱舞春秋.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "17",
+            "title": "以父之名",
+            "artist": "周杰伦",
+            "src": "./JayChou/以父之名.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "18",
+            "title": "你听得到",
+            "artist": "周杰伦",
+            "src": "./JayChou/你听得到.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "19",
+            "title": "你好吗",
+            "artist": "周杰伦",
+            "src": "./JayChou/你好吗.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "20",
+            "title": "你比从前快乐",
+            "artist": "周杰伦",
+            "src": "./JayChou/你比从前快乐.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "21",
+            "title": "倒带(Live)",
+            "artist": "周杰伦",
+            "src": "./JayChou/倒带(Live).mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "22",
+            "title": "借口",
+            "artist": "周杰伦",
+            "src": "./JayChou/借口.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "23",
+            "title": "公主病",
+            "artist": "周杰伦",
+            "src": "./JayChou/公主病.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "24",
+            "title": "兰亭序",
+            "artist": "周杰伦",
+            "src": "./JayChou/兰亭序.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "25",
+            "title": "分裂",
+            "artist": "周杰伦",
+            "src": "./JayChou/分裂.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "26",
+            "title": "前世情人",
+            "artist": "周杰伦",
+            "src": "./JayChou/前世情人.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "27",
+            "title": "半兽人",
+            "artist": "周杰伦",
+            "src": "./JayChou/半兽人.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "28",
+            "title": "半岛铁盒",
+            "artist": "周杰伦",
+            "src": "./JayChou/半岛铁盒.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "29",
+            "title": "印第安老斑鸠",
+            "artist": "周杰伦",
+            "src": "./JayChou/印第安老斑鸠.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "30",
+            "title": "双截棍",
+            "artist": "周杰伦",
+            "src": "./JayChou/双截棍.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "31",
+            "title": "反方向的钟",
+            "artist": "周杰伦",
+            "src": "./JayChou/反方向的钟.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "32",
+            "title": "发如雪",
+            "artist": "周杰伦",
+            "src": "./JayChou/发如雪.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "33",
+            "title": "可爱女人",
+            "artist": "周杰伦",
+            "src": "./JayChou/可爱女人.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "34",
+            "title": "同一种调调",
+            "artist": "周杰伦",
+            "src": "./JayChou/同一种调调.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "35",
+            "title": "听妈妈的话",
+            "artist": "周杰伦",
+            "src": "./JayChou/听妈妈的话.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "36",
+            "title": "听爸爸的话",
+            "artist": "周杰伦",
+            "src": "./JayChou/听爸爸的话.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "37",
+            "title": "听见下雨的声音",
+            "artist": "周杰伦",
+            "src": "./JayChou/听见下雨的声音.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "38",
+            "title": "周大侠",
+            "artist": "周杰伦",
+            "src": "./JayChou/周大侠.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "39",
+            "title": "哪里都是你",
+            "artist": "周杰伦",
+            "src": "./JayChou/哪里都是你.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "40",
+            "title": "四面楚歌",
+            "artist": "周杰伦",
+            "src": "./JayChou/四面楚歌.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "41",
+            "title": "回到过去",
+            "artist": "周杰伦",
+            "src": "./JayChou/回到过去.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "42",
+            "title": "园游会",
+            "artist": "周杰伦",
+            "src": "./JayChou/园游会.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "43",
+            "title": "困兽之斗",
+            "artist": "周杰伦",
+            "src": "./JayChou/困兽之斗.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "44",
+            "title": "土耳其冰淇淋",
+            "artist": "周杰伦",
+            "src": "./JayChou/土耳其冰淇淋.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "45",
+            "title": "外婆",
+            "artist": "周杰伦",
+            "src": "./JayChou/外婆.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "46",
+            "title": "夜曲",
+            "artist": "周杰伦",
+            "src": "./JayChou/夜曲.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "47",
+            "title": "夜的第七章",
+            "artist": "周杰伦",
+            "src": "./JayChou/夜的第七章.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "48",
+            "title": "大笨钟",
+            "artist": "周杰伦",
+            "src": "./JayChou/大笨钟.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "49",
+            "title": "天涯过客",
+            "artist": "周杰伦",
+            "src": "./JayChou/天涯过客.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "50",
+            "title": "她的睫毛",
+            "artist": "周杰伦",
+            "src": "./JayChou/她的睫毛.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "51",
+            "title": "好久不见",
+            "artist": "周杰伦",
+            "src": "./JayChou/好久不见.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "52",
+            "title": "威廉古堡",
+            "artist": "周杰伦",
+            "src": "./JayChou/威廉古堡.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "53",
+            "title": "娘子",
+            "artist": "周杰伦",
+            "src": "./JayChou/娘子.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "54",
+            "title": "安静",
+            "artist": "周杰伦",
+            "src": "./JayChou/安静.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "55",
+            "title": "对不起",
+            "artist": "周杰伦",
+            "src": "./JayChou/对不起.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "56",
+            "title": "将军",
+            "artist": "周杰伦",
+            "src": "./JayChou/将军.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "57",
+            "title": "床边故事",
+            "artist": "周杰伦",
+            "src": "./JayChou/床边故事.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "58",
+            "title": "开不了口",
+            "artist": "周杰伦",
+            "src": "./JayChou/开不了口.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "59",
+            "title": "彩虹",
+            "artist": "周杰伦",
+            "src": "./JayChou/彩虹.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "60",
+            "title": "心雨",
+            "artist": "周杰伦",
+            "src": "./JayChou/心雨.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "61",
+            "title": "忍者",
+            "artist": "周杰伦",
+            "src": "./JayChou/忍者.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "62",
+            "title": "懦夫",
+            "artist": "周杰伦",
+            "src": "./JayChou/懦夫.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "63",
+            "title": "我不配",
+            "artist": "周杰伦",
+            "src": "./JayChou/我不配.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "64",
+            "title": "我的地盘",
+            "artist": "周杰伦",
+            "src": "./JayChou/我的地盘.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "65",
+            "title": "我落泪",
+            "artist": "周杰伦",
+            "src": "./JayChou/我落泪",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "66",
+            "title": "手写的从前",
+            "artist": "周杰伦",
+            "src": "./JayChou/手写的从前.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "67",
+            "title": "手语",
+            "artist": "周杰伦",
+            "src": "./JayChou/手语.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "68",
+            "title": "搁浅",
+            "artist": "周杰伦",
+            "src": "./JayChou/搁浅.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "69",
+            "title": "斗牛",
+            "artist": "周杰伦",
+            "src": "./JayChou/斗牛.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "70",
+            "title": "断了的弦",
+            "artist": "周杰伦",
+            "src": "./JayChou/断了的弦.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "71",
+            "title": "无双",
+            "artist": "周杰伦",
+            "src": "./JayChou/无双.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "72",
+            "title": "时光机",
+            "artist": "周杰伦",
+            "src": "./JayChou/时光机.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "73",
+            "title": "明明就",
+            "artist": "周杰伦",
+            "src": "./JayChou/明明就.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "74",
+            "title": "星晴",
+            "artist": "周杰伦",
+            "src": "./JayChou/星晴.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "75",
+            "title": "晴天",
+            "artist": "周杰伦",
+            "src": "./JayChou/晴天.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "76",
+            "title": "暗号",
+            "artist": "周杰伦",
+            "src": "./JayChou/暗号.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "77",
+            "title": "最后的战役",
+            "artist": "周杰伦",
+            "src": "./JayChou/最后的战役.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "78",
+            "title": "最长的电影",
+            "artist": "周杰伦",
+            "src": "./JayChou/最长的电影.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "79",
+            "title": "本草纲目",
+            "artist": "周杰伦",
+            "src": "./JayChou/本草纲目.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "80",
+            "title": "枫",
+            "artist": "周杰伦",
+            "src": "./JayChou/枫.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "81",
+            "title": "梯田",
+            "artist": "周杰伦",
+            "src": "./JayChou/梯田.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "82",
+            "title": "止战之殇",
+            "artist": "周杰伦",
+            "src": "./JayChou/止战之殇.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "83",
+            "title": "浪漫手机",
+            "artist": "周杰伦",
+            "src": "./JayChou/浪漫手机.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "84",
+            "title": "火车叨位去",
+            "artist": "周杰伦",
+            "src": "./JayChou/火车叨位去.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "85",
+            "title": "烟花易冷",
+            "artist": "周杰伦",
+            "src": "./JayChou/烟花易冷.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "86",
+            "title": "爱你没差",
+            "artist": "周杰伦",
+            "src": "./JayChou/爱你没差.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "87",
+            "title": "爱在西元前",
+            "artist": "周杰伦",
+            "src": "./JayChou/爱在西元前.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "88",
+            "title": "爱情废柴",
+            "artist": "周杰伦",
+            "src": "./JayChou/爱情废柴.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "89",
+            "title": "爱情悬崖",
+            "artist": "周杰伦",
+            "src": "./JayChou/爱情悬崖.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "90",
+            "title": "爷爷泡的茶",
+            "artist": "周杰伦",
+            "src": "./JayChou/爷爷泡的茶.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "91",
+            "title": "爸我回来了",
+            "artist": "周杰伦",
+            "src": "./JayChou/爸我回来了.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "92",
+            "title": "牛仔很忙",
+            "artist": "周杰伦",
+            "src": "./JayChou/牛仔很忙.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "93",
+            "title": "甜甜的",
+            "artist": "周杰伦",
+            "src": "./JayChou/甜甜的.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "94",
+            "title": "白色风车",
+            "artist": "周杰伦",
+            "src": "./JayChou/白色风车.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "95",
+            "title": "等你下课",
+            "artist": "周杰伦",
+            "src": "./JayChou/等你下课",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "96",
+            "title": "简单爱",
+            "artist": "周杰伦",
+            "src": "./JayChou/简单爱.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "97",
+            "title": "算什么男人",
+            "artist": "周杰伦",
+            "src": "./JayChou/算什么男人.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "98",
+            "title": "米兰的小铁匠",
+            "artist": "周杰伦",
+            "src": "./JayChou/米兰的小铁匠.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "99",
+            "title": "红尘客栈",
+            "artist": "周杰伦",
+            "src": "./JayChou/红尘客栈.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "100",
+            "title": "红模仿",
+            "artist": "周杰伦",
+            "src": "./JayChou/红模仿.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "101",
+            "title": "给我一首歌的时间",
+            "artist": "周杰伦",
+            "src": "./JayChou/给我一首歌的时间.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "102",
+            "title": "美人鱼",
+            "artist": "周杰伦",
+            "src": "./JayChou/美人鱼.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "103",
+            "title": "自导自演",
+            "artist": "周杰伦",
+            "src": "./JayChou/自导自演.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "104",
+            "title": "花海",
+            "artist": "周杰伦",
+            "src": "./JayChou/花海.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "105",
+            "title": "英雄",
+            "artist": "周杰伦",
+            "src": "./JayChou/英雄.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "106",
+            "title": "菊花台",
+            "artist": "周杰伦",
+            "src": "./JayChou/菊花台.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "107",
+            "title": "蒲公英的约定",
+            "artist": "周杰伦",
+            "src": "./JayChou/蒲公英的约定.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "108",
+            "title": "蓝色风暴",
+            "artist": "周杰伦",
+            "src": "./JayChou/蓝色风暴.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "109",
+            "title": "蜗牛",
+            "artist": "周杰伦",
+            "src": "./JayChou/蜗牛.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "110",
+            "title": "说了再见",
+            "artist": "周杰伦",
+            "src": "./JayChou/说了再见.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "111",
+            "title": "说好的幸福呢",
+            "artist": "周杰伦",
+            "src": "./JayChou/说好的幸福呢.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "112",
+            "title": "说走就走",
+            "artist": "周杰伦",
+            "src": "./JayChou/说走就走.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "113",
+            "title": "超人不会飞",
+            "artist": "周杰伦",
+            "src": "./JayChou/超人不会飞.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "114",
+            "title": "超跑女神",
+            "artist": "周杰伦",
+            "src": "./JayChou/超跑女神.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "115",
+            "title": "跨时代",
+            "artist": "周杰伦",
+            "src": "./JayChou/跨时代.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "116",
+            "title": "轨迹",
+            "artist": "周杰伦",
+            "src": "./JayChou/轨迹.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "117",
+            "title": "迷迭香",
+            "artist": "周杰伦",
+            "src": "./JayChou/迷迭香.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "118",
+            "title": "退后",
+            "artist": "周杰伦",
+            "src": "./JayChou/退后.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "119",
+            "title": "逆鳞",
+            "artist": "周杰伦",
+            "src": "./JayChou/逆鳞.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "120",
+            "title": "阳光宅男",
+            "artist": "周杰伦",
+            "src": "./JayChou/阳光宅男.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "121",
+            "title": "雨下一整晚",
+            "artist": "周杰伦",
+            "src": "./JayChou/雨下一整晚.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "122",
+            "title": "霍元甲",
+            "artist": "周杰伦",
+            "src": "./JayChou/霍元甲.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "123",
+            "title": "青花瓷",
+            "artist": "周杰伦",
+            "src": "./JayChou/青花瓷.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "124",
+            "title": "鞋子特大号",
+            "artist": "周杰伦",
+            "src": "./JayChou/鞋子特大号.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "125",
+            "title": "飘移",
+            "artist": "周杰伦",
+            "src": "./JayChou/飘移.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "126",
+            "title": "麦芽糖",
+            "artist": "周杰伦",
+            "src": "./JayChou/麦芽糖.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "127",
+            "title": "黄金甲",
+            "artist": "周杰伦",
+            "src": "./JayChou/黄金甲.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "128",
+            "title": "黑色幽默",
+            "artist": "周杰伦",
+            "src": "./JayChou/黑色幽默.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "129",
+            "title": "黑色毛衣",
+            "artist": "周杰伦",
+            "src": "./JayChou/黑色毛衣.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "130",
+            "title": "龙卷风",
+            "artist": "周杰伦",
+            "src": "./JayChou/龙卷风.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "131",
+            "title": "龙战骑士",
+            "artist": "周杰伦",
+            "src": "./JayChou/龙战骑士.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "132",
+            "title": "龙拳",
+            "artist": "周杰伦",
+            "src": "./JayChou/龙拳.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "133",
+            "title": "不该",
+            "artist": "周杰伦,张惠妹",
+            "src": "./JayChou/不该",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "134",
+            "title": "爱的飞行日记",
+            "artist": "周杰伦,杨瑞代",
+            "src": "./JayChou/爱的飞行日记.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "135",
+            "title": "珊瑚海",
+            "artist": "周杰伦,梁心颐",
+            "src": "./JayChou/珊瑚海.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "136",
+            "title": "傻笑",
+            "artist": "周杰伦,袁咏琳",
+            "src": "./JayChou/傻笑.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "137",
+            "title": "怎么了",
+            "artist": "周杰伦,袁咏琳",
+            "src": "./JayChou/怎么了.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "138",
+            "title": "千里之外",
+            "artist": "周杰伦,费玉清",
+            "src": "./JayChou/千里之外.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
+            "id": "139",
+            "title": "布拉格广场",
+            "artist": "蔡依林,周杰伦",
+            "src": "./JayChou/布拉格广场.mp3",
+            "pic": "./timg.jpg"
+        }
+    ]
+}

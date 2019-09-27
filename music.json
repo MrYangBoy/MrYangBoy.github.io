@@ -1,8 +1,15 @@
 {
     "RECORDS": [
         {
+            "id": "695",
+            "title": "说好不哭",
+            "artist": "周杰伦",
+            "src": "https://mr-yangboy.gitee.io/music/JayChou/周杰伦 - 说好不哭.mp3",
+            "pic": "./timg.jpg"
+        },
+        {
             "id": "696",
-            "title": "",
+            "title": "Now You See Me",
             "artist": "周杰伦",
             "src": "https://mr-yangboy.gitee.io/music/JayChou/周杰伦 - Now You See Me.mp3",
             "pic": "./timg.jpg"

@@ -31,7 +31,7 @@
 				axios.get('https://api.flytodream.cn:8848/api/getData')
 					.then(res=> {
 						// handle success
-						this.data = res.data
+						this.data = [...res.data]
 					})
 			}
 		})

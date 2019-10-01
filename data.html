@@ -1,0 +1,39 @@
+<html>
+	<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+	<!-- 引入组件库 -->
+	<body>
+		<div id="app">
+		<el-table :data="data" style="width: 100%">
+			<el-table-column prop="id" label="id" width="180">
+			</el-table-column>
+			<el-table-column prop="ip" label="ip">
+			</el-table-column>
+			<el-table-column prop="name" label="name" width="180">
+			</el-table-column>
+		</el-table>
+		</div>
+	</body>
+	<script src="https://unpkg.com/vue/dist/vue.js"></script>
+	
+	<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+	<script>
+		new Vue({
+			el: '#app',
+			data() {
+				return {
+					visible: false,
+					data: []
+				}
+			},
+			created() {
+				axios.get('https://api.flytodream.cn:8848/api/getData')
+					.then(res=> {
+						// handle success
+						this.data = res.data
+					})
+			}
+		})
+	</script>
+</html>

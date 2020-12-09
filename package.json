@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "commit":" git add . && git commit -m 'c' && git push"
+	
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dumi": "^1.0.38"
+  }
+}

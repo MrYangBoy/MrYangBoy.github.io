@@ -32,7 +32,13 @@
   {
     "questionId": 6,
     "title": "最富有客户的资产总量",
-    "question": "https://music.flytodream.cn/miniProgram/questions/5.md",
+    "question": "https://music.flytodream.cn/miniProgram/questions/6.md",
     "source": "https://leetcode-cn.com/problems/richest-customer-wealth/"
+  },
+  {
+    "questionId": 7,
+    "title": "稀疏数组搜索",
+    "question": "https://music.flytodream.cn/miniProgram/questions/7.md",
+    "source": "https://leetcode-cn.com/problems/sparse-array-search-lcci/"
   }
 ]

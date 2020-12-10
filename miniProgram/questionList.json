@@ -7,14 +7,14 @@
   },
   {
     "questionId": 2,
-    "title": "两数之和",
-    "question": "https://music.flytodream.cn/1.md",
-    "source": "力扣（LeetCode） https://leetcode-cn.com/problems/two-sum"
+    "title": "柠檬水找零",
+    "question": "https://music.flytodream.cn/miniProgram/questions/2.md",
+    "source": "https://leetcode-cn.com/problems/lemonade-change"
   },
   {
     "questionId": 3,
     "title": "两数之和",
-    "question": "https://music.flytodream.cn/1.md",
+    "question": "https://music.flytodream.cn/miniProgram/questions/1.md",
     "source": "力扣（LeetCode） https://leetcode-cn.com/problems/two-sum"
   },
   {

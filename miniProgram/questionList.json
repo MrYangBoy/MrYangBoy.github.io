@@ -13,14 +13,26 @@
   },
   {
     "questionId": 3,
-    "title": "两数之和",
-    "question": "https://music.flytodream.cn/miniProgram/questions/1.md",
-    "source": "力扣（LeetCode） https://leetcode-cn.com/problems/two-sum"
+    "title": "计数质数",
+    "question": "https://music.flytodream.cn/miniProgram/questions/3.md",
+    "source": "https://leetcode-cn.com/problems/two-sum"
   },
   {
     "questionId": 4,
-    "title": "两数之和",
-    "question": "https://music.flytodream.cn/1.md",
-    "source": "力扣（LeetCode） https://leetcode-cn.com/problems/two-sum"
+    "title": "无重复字符的最长子串",
+    "question": "https://music.flytodream.cn/miniProgram/questions/4.md",
+    "source": "https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "questionId": 5,
+    "title": "形成目标数组的子数组最少增加次数",
+    "question": "https://music.flytodream.cn/miniProgram/questions/5.md",
+    "source": "https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/"
+  },
+  {
+    "questionId": 6,
+    "title": "最富有客户的资产总量",
+    "question": "https://music.flytodream.cn/miniProgram/questions/5.md",
+    "source": "https://leetcode-cn.com/problems/richest-customer-wealth/"
   }
 ]
